@@ -1,4 +1,4 @@
-﻿# DefineX JavaSpring Practicum Final Case 
+﻿# DefineX Java Spring Practicum Final Case 
 
 ## Spring Boot
 HTML, Css, Javascript(Optional)
